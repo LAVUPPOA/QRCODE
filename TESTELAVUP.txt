@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Conecte-se</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 20px;
+        }
+        .container {
+            max-width: 400px;
+            margin: auto;
+        }
+        .button {
+            display: block;
+            background-color: #007bff;
+            color: white;
+            padding: 15px;
+            margin: 10px 0;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Conecte-se Conosco</h1>
+        <a href="WIFI:S:SUA_REDE;T:WPA;P:SUA_SENHA;;" class="button">Conectar ao Wi-Fi</a>
+        <a href="https://wa.me/seu_numero" class="button">WhatsApp</a>
+        <a href="https://www.instagram.com/seu_instagram" class="button">Instagram</a>
+        <a href="https://www.google.com" class="button">Google</a>
+    </div>
+</body>
+</html>
